@@ -1,0 +1,7 @@
+C:\Users\lazukinE\source\repos\AppRezervCopy_CrownBD\bin\Debug\AppRezervCopy_CrownBD.exe.config
+C:\Users\lazukinE\source\repos\AppRezervCopy_CrownBD\bin\Debug\AppRezervCopy_CrownBD.exe
+C:\Users\lazukinE\source\repos\AppRezervCopy_CrownBD\bin\Debug\AppRezervCopy_CrownBD.pdb
+C:\Users\lazukinE\source\repos\AppRezervCopy_CrownBD\obj\Debug\AppRezervCopy_CrownBD.csproj.AssemblyReference.cache
+C:\Users\lazukinE\source\repos\AppRezervCopy_CrownBD\obj\Debug\AppRezervCopy_CrownBD.csproj.CoreCompileInputs.cache
+C:\Users\lazukinE\source\repos\AppRezervCopy_CrownBD\obj\Debug\AppRezervCopy_CrownBD.exe
+C:\Users\lazukinE\source\repos\AppRezervCopy_CrownBD\obj\Debug\AppRezervCopy_CrownBD.pdb
